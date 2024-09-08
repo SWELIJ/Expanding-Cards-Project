@@ -63,4 +63,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or feedback, feel free to reach out to [elijahtsheridan25@gmail.com](mailto:elijahtsheridan25@gmail.com).
 ```
 
-You can copy and paste this content into a `.readme` file for your project.
+
