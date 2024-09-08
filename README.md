@@ -54,10 +54,6 @@ You can view the live demo of the project [here](https://github.com/SWELIJ/Expan
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your proposed changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or feedback, feel free to reach out to [elijahtsheridan25@gmail.com](mailto:elijahtsheridan25@gmail.com).
