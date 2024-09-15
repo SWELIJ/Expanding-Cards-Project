@@ -7,11 +7,11 @@ The Expanding Cards project showcases an interactive UI element where users can 
 
 ## Live Demo
 
-You can view the live demo of the project [here](https://github.com/SWELIJ/Expanding-Cards-Project).
+You can view the live demo of the project [here](https://swelij.github.io/Expanding-Cards-Project/).
 
 ## Features
 
-- **Interactive Cards**: Users can click on cards to expand and view more details.
+- **Interactive Cards**: Users can click on cards to expand card.
 - **Smooth Transitions**: Utilizes CSS transitions for a smooth and visually appealing expansion effect.
 - **Responsive Design**: Ensures that the card elements look great on various screen sizes.
 
